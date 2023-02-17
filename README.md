@@ -1,4 +1,4 @@
-# Hi, I'm NASEER! 👋
+# Hi, I'm sneha! 👋
 # Quiz app
 
 Test your kids with this amazing bsic quiz app
@@ -7,7 +7,7 @@ Test your kids with this amazing bsic quiz app
 
 ## Authors
 
-- [@Muhammad Naseer](https://www.github.com/naseerz)
+- [@](https://www.github.com/naseerz)
 
 ---
 
